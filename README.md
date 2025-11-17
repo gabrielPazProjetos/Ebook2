@@ -5,19 +5,12 @@ Bem-vindo ao repositório do ebook **A Floresta que Sonha**, uma jornada psicod�
 Este ebook foi criado como parte de um desafio criativo, explorando:
 - Escrita em Markdown para organização e publicação.
 - Estrutura narrativa dividida em capítulos.
-- Estilo literário surreal, inspirado em experiências de consciência expandida.
-
---- Estrutura
-O conteúdo está dividido em capítulos independentes:
-1. [Capítulo 1 – A Floresta que Sonha](Capitulo1.md)  
-2. [Capítulo 2 – O Chamado das Raízes](Capitulo2.md)  
-3. [Capítulo 3 – O Coração da Floresta](Capitulo3.md)  
-4. [Capítulo 4 – O Labirinto dos Sonhos](Capitulo4.md)  
-5. [Capítulo 5 – A Fusão](Capitulo5.md)  
+- Estilo literário surreal, inspirado em experiências de consciência expandida. 
 
 --- Como ler
 - Navegue pelos arquivos .md diretamente aqui no GitHub.  
-- Cada capítulo é independente, mas juntos formam uma narrativa completa.  
+- Cada capítulo é independente, mas juntos formam uma narrativa completa.
+- Cada capítulo contem uma imagem, ilustrando a etapa da historia 
 
 --- Estilo
 -- O texto mistura:
