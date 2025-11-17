@@ -9,11 +9,11 @@ Este ebook foi criado como parte de um desafio criativo, explorando:
 
 --- Estrutura
 O conteúdo está dividido em capítulos independentes:
-1. [Capítulo 1 – A Floresta que Sonha](capitulo1.md)  
-2. [Capítulo 2 – O Chamado das Raízes](capitulo2.md)  
-3. [Capítulo 3 – O Coração da Floresta](capitulo3.md)  
-4. [Capítulo 4 – O Labirinto dos Sonhos](capitulo4.md)  
-5. [Capítulo 5 – A Fusão](capitulo5.md)  
+1. [Capítulo 1 – A Floresta que Sonha](Capitulo1.md)  
+2. [Capítulo 2 – O Chamado das Raízes](Capitulo2.md)  
+3. [Capítulo 3 – O Coração da Floresta](Capitulo3.md)  
+4. [Capítulo 4 – O Labirinto dos Sonhos](Capitulo4.md)  
+5. [Capítulo 5 – A Fusão](Capitulo5.md)  
 
 --- Como ler
 - Navegue pelos arquivos .md diretamente aqui no GitHub.  
